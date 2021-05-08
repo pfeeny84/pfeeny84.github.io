@@ -82,6 +82,7 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+  color:black
 }
 
 p {
@@ -7518,6 +7519,7 @@ button.bg-dark:focus {
 .mb-0,
 .my-0 {
   margin-bottom: 0 !important;
+  color:black
 }
 
 .ml-0,
@@ -7639,7 +7641,8 @@ button.bg-dark:focus {
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
-  color:blue;
+  color:whitesmoke;
+  font-weight:bolder ;
 }
 
 .ml-5,
